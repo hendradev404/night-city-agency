@@ -58,7 +58,7 @@ const plans = [
 
 const PricingPlans = () => {
   return (
-    <section className="relative py-32">
+    <section id="pricing" className="relative py-32">
       <div className="container mx-auto px-4">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
