@@ -7,7 +7,7 @@ const TerminalContact = () => {
   const [message, setMessage] = useState("");
   const [submitted, setSubmitted] = useState(false);
   const [lines, setLines] = useState<string[]>([
-    "CYBER.DEV TERMINAL v4.2.1",
+    "HENDRA.DEV TERMINAL v4.2.1",
     "Secure channel established.",
     "Type your message below.",
     "---",

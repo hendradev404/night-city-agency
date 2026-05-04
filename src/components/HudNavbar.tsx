@@ -21,7 +21,7 @@ const HudNavbar = () => {
       <div className="container mx-auto flex items-center justify-between px-4 py-3 lg:px-8">
         {/* Logo */}
         <a href="#hero" className="font-major text-lg tracking-widest neon-text-cyan">
-          CYB<span className="neon-text-magenta">Ξ</span>R.DEV
+          HENDR<span className="neon-text-magenta">Λ</span>.DEV
         </a>
 
         {/* Desktop links */}
